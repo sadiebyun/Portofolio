@@ -1,0 +1,117 @@
+html {
+	background-color: #ccccb3);
+}
+
+h1 {
+	font-size: 150px;
+	font-family: 'Amatic SC', cursive;
+	color: #334d4d;
+	background-image: url("http://i.imgur.com/yuLm03E.jpg");
+	background-repeat: no-repeat;
+
+}
+
+body {
+	text-align: center;
+}
+
+.whitefy { 
+	color:#333639;
+	text-align: l;
+	font-size: 30px;
+	font-family: 'Amatic SC', cursive;}
+}
+
+.hello {
+	font-size: 60px;
+	font-family: 'Amatic SC', cursive;
+	color: #333639;}
+
+ul {
+	text-align: left;}
+
+
+ul {
+	margin-left: 650px;}
+
+p { 
+	margin-left: 100px;
+	margin-right: 100px;
+	font-size: 40px;
+	font-family: 'Amatic SC', cursive;
+	color: #334d4d;
+}
+
+.experience {	
+	background: #ffffff;
+	font-size: 38px;
+	font-family: 'Amatic SC', cursive;
+	color: #334d4d;
+}
+
+.welcome {
+	background: "abstract.jpg"; 
+}
+
+.jumbotron { 
+	font-family: 'Amatic SC', cursive;
+	color: #334d4d;
+	
+}
+*/
+.container { 
+	font-family: 'Amatic SC', cursive;
+	color: #334d4d;
+	font-size: 10px;}
+
+/*.heading {
+	font-family: 'Amatic SC', cursive;
+	color: #334d4d;
+	font-size: 150px;  
+}*/
+
+h3 { 
+	font-size: 45px;
+	font-family: 'Amatic SC', cursive;
+	color: #334d4d; }
+
+.email {
+	color:#333639;
+	text-align: l;
+	font-size: 45px;
+	font-family: 'Amatic SC', cursive;
+}
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+    <li data-target="#myCarousel" data-slide-to="3"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item active">
+      <img src="http://i.imgur.com/MEoLjHL.png">
+
+    <div class="item active">
+      <img src="http://i.imgur.com/Thljk0T.png">
+    </div>
+
+    <div class="item active">
+      <img src="http://i.imgur.com/kE2MNWb.png">
+    </div>
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>

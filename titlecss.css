@@ -1,0 +1,25 @@
+body {
+	background-image: url("http://i.imgur.com/yuLm03E.jpg");
+	background-repeat: no-repeat;
+}
+
+h1 {
+	font-size: 150px;
+	text-align: center;
+	color: #333639;
+	font-family: 'Amatic SC', cursive;
+}
+
+p {
+	color:#333639;
+	text-align: center;
+	font-size: 60px;
+	font-family: 'Amatic SC', cursive;
+}
+
+.sub {
+	color:#333639;
+	text-align: l;
+	font-size: 60px;
+	font-family: 'Amatic SC', cursive;
+}
